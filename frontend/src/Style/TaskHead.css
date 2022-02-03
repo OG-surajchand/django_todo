@@ -1,0 +1,14 @@
+.header {
+    background-color: #58aadd;
+    width: 60%;
+    text-align: center;
+    font-size: 35px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    margin-top: 20px;
+}
+.parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
